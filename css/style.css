@@ -25,7 +25,7 @@ body{
 	font-family:Google Sans Medium;
 	max-width: 100%;
     overflow-x: hidden;
-    background: linear-gradient(134.39deg,#4d44c6 -6.16%, #ea4c89 85.98%);
+    background:linear-gradient(268deg,#4d44c6 -40%, #ea4c89 90%);
     color: #fff;
 	}
 	.card{
@@ -63,7 +63,7 @@ body{
 	.card-border-color{
 	border: 0px solid #ec5e95 ;
     border-radius: 6px 6px 6px 6px;
-    box-shadow: 0 0px 16px 1px #ec5e95 ;
+    box-shadow: 0 0px 6px 1px #ec5e95 ;
 	}
 
 #spin {
@@ -181,6 +181,8 @@ ul.timeline > li:before {
 .badge
 {
     white-space: break-spaces;
+    
+    margin-bottom: 0.2rem;
 }
 @media screen and (max-width: 600px) {
 .row
