@@ -32,7 +32,7 @@ body{
 	background-color: rgba(0,0,0,0.1)!important;
 	}
 	.card-title{
-	color:linear-gradient(100deg, #f3611b 0%, #f5186ef2 100%);
+	color:linear-gradient(100deg, #e38354 0%, #f13880f5 100%);
 	font-size:1.5rem;
 	font-weight:600;
 	}
@@ -69,7 +69,7 @@ body{
 #spin {
 	font-size: 110%;
 	font-weight: 600;
-	background:linear-gradient(100deg, #f3611b 0%, #f5186ef2 100%);
+	background:linear-gradient(100deg, #e38354 0%, #f13880f5 100%);
   	-webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
