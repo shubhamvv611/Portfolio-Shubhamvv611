@@ -79,17 +79,17 @@ body{
 }
 @keyframes spin {
   0% { content:"MERN Stack";}
-  10% { content:"React";}
-  15% { content:"NodeJs";}
-  25% { content:"Full Stack ";}
-  34% { content:"JavaScript";}
+  8% { content:"React";}
+  16% { content:"NodeJs";}
+  24% { content:"Full Stack ";}
+  32% { content:"JavaScript";}
   40% { content:"HTML 5";}
-  45% { content:"CSS 3";}
-  50% { content: "Bootstrap"; }
-  60% { content: "Jquery"; }
-  70% { content: "Mysql"; }
+  48% { content:"CSS 3";}
+  56% { content: "Bootstrap"; }
+  64% { content: "Jquery"; }
+  72% { content: "Mysql"; }
   80% { content: "PHP"; }
-  90% { content: "MongoDB"; }
+  88% { content: "MongoDB"; }
 }
 
 #bg-danger-font-size
