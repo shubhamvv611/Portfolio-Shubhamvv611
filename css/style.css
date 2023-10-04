@@ -25,14 +25,14 @@ body{
 	font-family:Google Sans Medium;
 	max-width: 100%;
     overflow-x: hidden;
-    background:linear-gradient(268deg,#3605ae -40%, #d0086c 90%);
+    background:linear-gradient(268deg,#4504e7 -40%, #e90678 90%);
     color: #fff;
 	}
 	.card{
 	background-color: rgba(0,0,0,0.1)!important;
 	}
 	.card-title{
-	color:linear-gradient(100deg, #ff874f 0%, #ec5e95 100%);
+	color:linear-gradient(100deg, #f3611b 0%, #f5186ef2 100%);
 	font-size:1.5rem;
 	font-weight:600;
 	}
@@ -69,7 +69,7 @@ body{
 #spin {
 	font-size: 110%;
 	font-weight: 600;
-	background:linear-gradient(100deg, #ff874f 0%, #ec5e95 100%);
+	background:linear-gradient(100deg, #f3611b 0%, #f5186ef2 100%);
   	-webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
@@ -78,11 +78,13 @@ body{
   animation: spin 14s linear infinite;
 }
 @keyframes spin {
-  0% { content:"Front End";}
-  10% { content:"Back End";}
-  20% { content:"HTML";}
-  30% { content:"CSS";}
-  40% { content:"Javascript";}
+  0% { content:"MERN Stack";}
+  10% { content:"React";}
+  15% { content:"NodeJs";}
+  25% { content:"Full Stack ";}
+  34% { content:"JavaScript";}
+  40% { content:"HTML 5";}
+  45% { content:"CSS 3";}
   50% { content: "Bootstrap"; }
   60% { content: "Jquery"; }
   70% { content: "Mysql"; }
@@ -137,7 +139,7 @@ tbody td:first-last
 
 
 h5{ 
-	background:linear-gradient(100deg, #ff874f 0%, #ec5e95 100%);
+	background:linear-gradient(100deg, #f3611b 0%, #f5186ef2 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
  }
